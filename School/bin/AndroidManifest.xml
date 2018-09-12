@@ -23,8 +23,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.school.activity.first.FirstActivity"
+            android:name=".activity.first.FirstActivity"
             android:label="@string/title_activity_first" >
+        </activity>
+        <activity
+            android:name=".OtherActivity"
+            android:label="@string/title_activity_other" >
+        </activity>
+        <activity
+            android:name=".Main1Activity"
+            android:label="@string/title_activity_main1" >
         </activity>
     </application>
 
