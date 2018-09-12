@@ -7,6 +7,10 @@
     <string name="title_activity_first">FirstActivity</string>
     <string name="title_activity_other">OtherActivity</string>
     <string name="title_activity_main1">Main1Activity</string>
+<<<<<<< HEAD
     <string name="title_activity_welcome">WelcomeActivity</string>
+=======
+    <string name="title_activity_main123123">Main123123Activity</string>
+>>>>>>> af8f4920e4944e64c4399e76e96e0da582b0dd28
 
 </resources>

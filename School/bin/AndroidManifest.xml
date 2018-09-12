@@ -35,8 +35,13 @@
             android:label="@string/title_activity_main1" >
         </activity>
         <activity
+<<<<<<< HEAD
             android:name=".WelcomeActivity"
             android:label="@string/title_activity_welcome" >
+=======
+            android:name=".Main123123Activity"
+            android:label="@string/title_activity_main123123" >
+>>>>>>> af8f4920e4944e64c4399e76e96e0da582b0dd28
         </activity>
     </application>
 
